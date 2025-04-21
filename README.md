@@ -44,10 +44,10 @@ https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 >>>>>>> 72e6c23 (README.md)
 =======
      # Step #1 - Clone this repo
-     git clone https://github.com/ichsanfyudika12/segment_OpenCV_RealSense.git
+     git clone https://github.com/ichsanfyudika12/segment_OpenCV-RealSense.git
      
      # Step #2 - Build
-     cd segment_OpenCV_RealSense
+     cd segment_OpenCV-RealSense
      mkdir build && cd build
      cmake ..
      make
