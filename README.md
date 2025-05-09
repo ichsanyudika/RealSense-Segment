@@ -34,10 +34,10 @@ https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 ### ⚙️ Build and Run
 
      # Step #1 - Clone this repo
-     git clone https://github.com/ichsanyudika/realsense_seg.git
+     git clone https://github.com/ichsanyudika/realsense-segment.git
      
      # Step #2 - Build
-     cd realsense_seg
+     cd realsense-segment
      mkdir build && cd build
      cmake ..
      make
