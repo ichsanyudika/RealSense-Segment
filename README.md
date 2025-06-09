@@ -24,10 +24,10 @@
 ### Build and Run
 
           # 1. Clone the repository
-          git clone https://github.com/ichsanyudika/REALSENSE-SEGMENT.git
+          git clone https://github.com/ichsanyudika/realsense-segment.git
           
           # 2. Build
-          cd REALSENSE-SEGMENT
+          cd realsense-segment
           mkdir build && cd build
           cmake ..
           make
