@@ -1,6 +1,4 @@
 ## Prerequisites
-
-### Install OpenCV with Contrib Modules (C++)
   
 - OpenCV Contrib Repository: https://github.com/opencv/opencv_contrib
 
@@ -21,9 +19,7 @@
           sudo make install
           pkg-config --modversion opencv4
 
-### Install RealSense SDK
-
-- Installation guide: https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
+- install RealSense SDK : https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 
 ### Build and Run
 
@@ -39,6 +35,6 @@
           # 3. Run the application
           ./cam
 
-### Results*
+### Results
 
 ![](output/output.png)
