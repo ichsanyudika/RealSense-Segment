@@ -19,7 +19,7 @@
           sudo make install
           pkg-config --modversion opencv4
 
-- install RealSense SDK : https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
+- RealSense SDK : https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 
 ### Build and Run
 
